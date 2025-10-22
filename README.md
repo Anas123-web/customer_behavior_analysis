@@ -37,8 +37,17 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
   
       - Answer Business Questions using SQL Queries 
       
-4. **Connect the SQL Database to Power BI**
+3. **Connect the SQL Database to Power BI**
 
       - Open **customer_behavior_dashboard.pbix**
    
       - Create interactive dashboard in Power BI
+  
+4. **Create Project Report and Presentation**
+
+      - Create project report
+   
+      - Build presentation deck using Gamma AI
+
+
+  ## 💡 Thanks for checking out the project
